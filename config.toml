@@ -1,4 +1,4 @@
-title = "Eddie Webb"
+title = "Md Sazzad Hossen"
 baseURL = "https://mdsazzad173.github.io/"
 theme = "hugo-resume"
 languageCode = "en-us"
@@ -11,16 +11,14 @@ enableGitInfo = false
 address = "Rollinsford, NH"
 email = "email@domain.com"
 favicon = "/favicon.ico"
-firstName = "Eddie"
-lastName = "Webb"
+firstName = "Md Sazzad"
+lastName = "Hossen"
 phone = "1-555-555-1234"
-profileImage = "img/TechChat.png"
+profileImage = "img/profie-picture.jpg"
 showQr = true
 showContact = true
 sections = ["publications", "creations", "contributions", "blog"]
 # sections = ["skills", "publications", "creations", "contributions", "experience", "education", "blog"]
-
-
 
 [params.google]
 
